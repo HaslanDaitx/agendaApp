@@ -1,0 +1,8 @@
+C:\Users\hasla\source\repos\AppAgenda\AppAgenda\bin\Release\net9.0-windows\publish\AppAgenda.exe
+C:\Users\hasla\source\repos\AppAgenda\AppAgenda\bin\Release\net9.0-windows\publish\AppAgenda.dll
+C:\Users\hasla\source\repos\AppAgenda\AppAgenda\bin\Release\net9.0-windows\publish\AppAgenda.deps.json
+C:\Users\hasla\source\repos\AppAgenda\AppAgenda\bin\Release\net9.0-windows\publish\AppAgenda.runtimeconfig.json
+C:\Users\hasla\source\repos\AppAgenda\AppAgenda\bin\Release\net9.0-windows\publish\AppAgenda.pdb
+C:\Users\hasla\source\repos\AppAgenda\AppAgenda\bin\Release\net9.0-windows\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hasla\source\repos\AppAgenda\AppAgenda\bin\Release\net9.0-windows\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hasla\source\repos\AppAgenda\AppAgenda\bin\Release\net9.0-windows\publish\Npgsql.dll
